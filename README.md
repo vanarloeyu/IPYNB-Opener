@@ -18,7 +18,10 @@ Have you ever experienced the hassle of opening an Jupyter Notebook (.ipynb) fil
       ![wrong_directory](visuals/wrong_directory.gif "wrong_directory")
 
 ## Your step by step guide to open your Jupyter Notebook (.ipynb) file with a double click
-The solution created was based on the second method mentioned above and ghoppe's answer in https://superuser.com/questions/139352/mac-os-x-how-to-open-vim-in-terminal-when-double-click-on-a-file. Below are the detailed steps for the automator solution.
+The solution created was based on the second method mentioned above and ghoppe's answer in https://superuser.com/questions/139352/mac-os-x-how-to-open-vim-in-terminal-when-double-click-on-a-file. Below are the detailed steps for the automator solution. 
+
+If you have downloaded ["automatic_ipynb_opener.app"](https://github.com/vanarloeyu/Jupyter-Notebook-Double-Click/tree/master/automatic_ipynb_opener.app) you may proceed to Step 7.
+
   1. Open "Automator.app" from your Finder
   
       ![step1](visuals/step1.png "step1")
@@ -58,6 +61,8 @@ The solution created was based on the second method mentioned above and ghoppe's
   6. Save as "automatic_ipynb_opener.app" or any desired name for your app
   
       ![step6](visuals/step6.png "step6")
+
+Starting point if you have downloaded ["automatic_ipynb_opener.app"](https://github.com/vanarloeyu/Jupyter-Notebook-Double-Click/tree/master/automatic_ipynb_opener.app).
 
   7. Go to any .ipynb file, open "Get Info" and select "Other..." under "Open with"
   
