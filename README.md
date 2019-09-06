@@ -77,7 +77,7 @@ The solution created was based on the second method mentioned above and ghoppe's
   
       ![automator](visuals/automator.gif "automator")
 
-That's it! You now have an Automator AppleScript that will open your ipynb file directly as a Jupyter Notebook in your browser. You are now saved from seconds, minutes, or even hours of non-value adding activity. Enjoy!
+That's it! You now have an Automator AppleScript that will open your ipynb file directly as a Jupyter Notebook in your browser. You have been saved from seconds, minutes, or even hours of non-value adding activity. Enjoy!
 
 ## Reference: 
 
