@@ -1,4 +1,7 @@
 # How to automatically open your Jupyter Notebook (.ipynb) file with a double click?
+
+  ![automator](visuals/automator.gif "automator")
+  
 Have you ever experienced the hassle of opening an Jupyter Notebook (.ipynb) file? If you've worked with Jupyter Notebooks before you've probably had. To ease the hassle, I have created an **Automator AppleScript that will open your ipynb file directly as a Jupyter Notebook in your browser.** The solution presented however is only compatible with Mac OS.
 
 
